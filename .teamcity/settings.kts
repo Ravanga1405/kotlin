@@ -32,6 +32,8 @@ project {
         steps {
             script {
                 scriptContent = "echo 'Hello world111!'"
+                scriptContent = "echo 'Hello world111!'"
+                scriptContent = "echo 'Hello world111!'"
             }
         }
     }
