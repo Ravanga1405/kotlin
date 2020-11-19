@@ -30,11 +30,9 @@ project {
         id("HelloWorld")
         name = "Hello world"
         steps {
-            script {
-                scriptContent = "echo 'Hello world111!'"
-                scriptContent = "echo 'Hello world111!'"
-                scriptContent = "echo 'Hello world111!'"
-            }
+            script { scriptContent = "echo 'Hello world1!'" }
+            script { scriptContent = "echo 'Hello world2!'" }
         }
     }
 }
+

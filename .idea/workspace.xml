@@ -58,16 +58,41 @@
       </selectedPath>
     </treeState>
     <treeState key="responsibilities">
+      <expandedPath>
+        <pathElement>
+          <option name="myNodeId" value="project5" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.ProjectDescriptor" />
+        </pathElement>
+      </expandedPath>
+      <expandedPath>
+        <pathElement>
+          <option name="myNodeId" value="project5" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.ProjectDescriptor" />
+        </pathElement>
+        <pathElement>
+          <option name="myNodeId" value="Build Configurations" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.StringDescriptor" />
+        </pathElement>
+      </expandedPath>
       <selectedPath>
         <pathElement>
-          <option name="myNodeId" value="helperText" />
-          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.LinkedTextDescriptor" />
+          <option name="myNodeId" value="project5" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.ProjectDescriptor" />
+        </pathElement>
+        <pathElement>
+          <option name="myNodeId" value="Build Configurations" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.StringDescriptor" />
+        </pathElement>
+        <pathElement>
+          <option name="myNodeId" value="bt9" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.BuildTypeDescriptor" />
         </pathElement>
       </selectedPath>
     </treeState>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81eb7255-5d59-4c5b-bbed-e669b757c510" name="Default Changelist" comment="111">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.teamcity/settings.kts" beforeDir="false" afterPath="$PROJECT_DIR$/.teamcity/settings.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605461370092</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="111">
+      <created>1605461675044</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605461675044</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
